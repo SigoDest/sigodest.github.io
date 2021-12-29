@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Renji",
+    "Name": "GatherBuddy [T]",
+    "Punchline": "Requested by the Candyman.",
+    "Description": "Change your race and your face!\n\nUse /xlcosmetic to open settings.",
+    "Tags": null,
+    "InternalName": "Cosmetic",
+    "AssemblyVersion": "1.0.3.0",
+    "TestingAssemblyVersion": "1.0.3.0",
+    "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadCount": 1,
+    "LastUpdate": 1618608322,
+    "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
+    "IconUrl": "https://sigodest.github.io/images/renvolt.png"
+  }
+]
