@@ -12,9 +12,13 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "IsHide": "False",
-    "IsTestingExclusive": "True",
+    "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1640782911,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": 1640924738,
+    "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "IconUrl": "https://sigodest.github.io/images/renvolt.png"
