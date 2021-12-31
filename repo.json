@@ -4,10 +4,12 @@
     "Name": "Cosmetic",
     "Punchline": "Requested by the Candyman.",
     "Description": "Change your race and your face!\n\nUse /xlcosmetic to open settings.",
-    "Tags": null,
+    "Tags": [
+      "utility"
+    ],
     "InternalName": "Cosmetic",
-    "AssemblyVersion": "1.0.3.0",
-    "TestingAssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.4.0",
+    "TestingAssemblyVersion": "1.0.4.0",
     "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
@@ -17,7 +19,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": 1640924738,
+    "LastUpdate": 1640925694,
     "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
