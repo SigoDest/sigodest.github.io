@@ -8,18 +8,18 @@
       "utility"
     ],
     "InternalName": "Cosmetic",
-    "AssemblyVersion": "1.0.4.0",
-    "TestingAssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": 1640925694,
+    "LastUpdate": 1650056645,
     "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
