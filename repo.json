@@ -24,5 +24,34 @@
     "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
     "IconUrl": "https://sigodest.github.io/images/renvolt.png"
-  }
+  },
+  {
+    "Author": "Jawslouis (modified by Renji)",
+    "Name": "MakePlace Plugin",
+    "Punchline": "Also requested by the Candyman.",
+    "InternalName": "MakePlacePlugin",
+    "AssemblyVersion": "2.13.0.0",
+    "TestingAssemblyVersion": "2.13.0.0",
+    "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
+    "Tags": [
+      "makeplace",
+      "housing",
+      "furniture",
+      "jawslouis"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": 1650070385,
+    "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+    "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/MakePlacePlugin-latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png"
+  },
 ]
