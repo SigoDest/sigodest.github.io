@@ -8,8 +8,8 @@
       "utility"
     ],
     "InternalName": "Cosmetic",
-    "AssemblyVersion": "1.1.0.3",
-    "TestingAssemblyVersion": "1.1.0.3",
+    "AssemblyVersion": "1.1.0.4",
+    "TestingAssemblyVersion": "1.1.0.4",
     "RepoUrl": "https://github.com/SigoDest/sigodest.github.io",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -19,10 +19,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": 1650127538,
-    "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
-    "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/latest.zip",
+    "LastUpdate": 1650137883,
+    "DownloadLinkInstall": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
+    "DownloadLinkTesting": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SigoDest/sigodest.github.io/raw/main/Cosmetic-latest.zip",
     "IconUrl": "https://sigodest.github.io/images/renvolt.png"
   },
   {
